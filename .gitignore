@@ -1,0 +1,14 @@
+# Operating System Files (Sampah Windows/Mac)
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / VS Code Settings
+.vscode/
+*.swp
+*.swo
+
+# Power BI & Excel Temp Files
+~$*.xlsx
+*.lock
